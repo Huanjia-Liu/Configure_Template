@@ -1,0 +1,12 @@
+{
+    "enable": true,
+    "server": "your server", 
+    "server_port": 999, 
+    "method": "your cipher", 
+    "password": "your pw", 
+    "protocol": "your protocol", 
+    "obfs": "your obfs", 
+    "protocol_param": "your protocol param", 
+    "obfs_param": "your obfs param", 
+    "local_port": 7999
+}
